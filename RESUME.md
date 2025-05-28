@@ -1,16 +1,9 @@
-<div style="display:flex;justify-content:space-between">
-  <div>
-    <div style="font-size:24pt;font-weight:bold">
-    Dan Fessler
-    </div>
-    Senior Frontend Engineer for Web and Games
-  </div>
-  <span style="text-align:right;padding:6px"> 
-    Dan@DanFessler.com <br>
-    760.985.4865 <br>
-    San Francisco, CA
-  </span>
-</div>
+# Dan Fessler
+
+**Senior Software Engineer**  
+Dan@DanFessler.com  
+760.985.4865  
+San Francisco, CA
 
 ## Executive Summary
 
