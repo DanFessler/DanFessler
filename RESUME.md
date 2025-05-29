@@ -1,6 +1,5 @@
-# Dan Fessler
+# Dan Fessler - Senior Software Engineer
 
-**Senior Software Engineer**  
 760.985.4865  
 [DanFessler.com](http://danfessler.com)  
 Dan@DanFessler.com  
