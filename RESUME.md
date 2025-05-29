@@ -1,8 +1,9 @@
 # Dan Fessler
 
 **Senior Software Engineer**  
-Dan@DanFessler.com  
 760.985.4865  
+[DanFessler.com](http://danfessler.com)  
+Dan@DanFessler.com  
 San Francisco, CA
 
 ## Executive Summary
