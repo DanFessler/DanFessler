@@ -1,12 +1,3 @@
-# Dan Fessler - Senior Software Engineer
-
-760.985.4865  
-[DanFessler.com](http://danfessler.com)  
-Dan@DanFessler.com  
-San Francisco, CA
-
-[link to test](./test.md)
-
 ## Executive Summary
 
 While my official titles have primarily reflected creative roles, I bring a comprehensive perspective to software development through my diverse experience across the full spectrum of engineering disciplines. This resume highlights my technical expertise and software engineering accomplishments.
@@ -62,20 +53,35 @@ A Bit Lucky was founded in 2010 to make high quality social games on Facebook. I
 
 ### Previous Roles (2005-2010)
 
-- **Glu Mobile (2008-2009):** Senior Artist on Family Guy Uncensored
-- **Gameloft (2007-2008):** Pixel artist on New York Nights
-- **Contract (2005-2006):** Contract artiwork for MGA/Mattel on various electronic toys
+I got my start in the games industry as a pixel artist in the pre-iphone era of mobile gaming. I began freelancing in high school on various electronic toys before graduating early to begin my full-time career.
+
+- Glu Mobile (2008-2009):  
+  Senior Artist on Family Guy Uncensored
+
+- Gameloft (2007-2008):  
+  Pixel artist on New York Nights
+- Contract (2005-2006):  
+  Contract artiwork for MGA/Mattel on various electronic toys
 
 ## Noteable Projects:
 
 - Visual LUA
 - Visual Incite
 - Index Painter
-- Dockable
+- [React Dockable](https://github.com/danfessler/react-dockable)  
+  React-Dockable is a React library to create beautiful dockable tabbed interfaces for tools, editors, and more. Used by InciteWorlds.com
+
 - Parsnip
-- Panelgroup
-- iValueSavings
-- MilkManPlus
+
+- [React-PanelGroup](https://github.com/danfessler/react-panelgroup)  
+  an Open Source react component for resizable panel layouts, used by Meta. Over 80k downloads on NPM
+
+- [iValueSavings](https://ivaluesavings.com)  
+  A savings club and newsletter with referral marketing
+
+- [MilkManPlus](https://milkmanplus.com):  
+  A service portal for a local Milkman business
+
 - Pixel Socket
 - basic.js
 - basin
