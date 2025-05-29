@@ -1,11 +1,11 @@
 ## Executive Summary
 
-While my official titles have primarily reflected creative roles, I bring a comprehensive perspective to software development through my diverse experience across the full spectrum of engineering disciplines. This resume highlights my technical expertise and software engineering accomplishments.
+I've spent the last 20 years working in the games industry primarily in art and creative leadership roles, but throughout it all I've maintained my passion for frontend development with a focussing on web development, creative tools, and visual programming languages. This resume highlights my technical expertise and software engineering accomplishments throughout my career.
 
 - 20 years experience software development (primarily games)
 - 10+ Years in creative executive leadership roles
 - Proficient in HTML/CSS, Javascript, Typescript, and React (10 years)
-- Full-stack experience desigining restful API's and backend servers
+- Full-stack experience with Node, Express, Socket.IO, Firebase, MongoDB, and PostgreSQL
 - Shipped Games, Tools, Web Services, and OSS
 
 ## Experience
@@ -63,29 +63,42 @@ I got my start in the games industry as a pixel artist in the pre-iphone era of 
 - Contract (2005-2006):  
   Contract artiwork for MGA/Mattel on various electronic toys
 
-## Noteable Projects:
+## Projects:
 
-- Visual LUA
-- Visual Incite
-- Index Painter
-- [React Dockable](https://github.com/danfessler/react-dockable)  
-  React-Dockable is a React library to create beautiful dockable tabbed interfaces for tools, editors, and more. Used by InciteWorlds.com
+- **[React Dockable](https://github.com/danfessler/react-dockable)**  
+  A React library to create beautiful dockable tabbed interfaces for tools, editors, and more. Used by InciteWorlds.com
+- **[React-PanelGroup](https://github.com/danfessler/react-panelgroup)**  
+  An Open Source react component for resizable panel layouts, used by Meta. Over 80k downloads on NPM. Also leveraged by React Dockable
 
-- Parsnip
+- **[Index Painter]()**  
+  A pixel art editor written in React/Typescript which natively implements [HD Index Painting](http://danfessler.com/blog/hd-index-painting-in-photoshop) and uses webgl for graphics accelerated drawing
 
-- [React-PanelGroup](https://github.com/danfessler/react-panelgroup)  
-  an Open Source react component for resizable panel layouts, used by Meta. Over 80k downloads on NPM
+- **[ctx game engine]()**  
+   A web-first game engine with a unity-like editor and component system with a canvas2D renderer
 
-- [iValueSavings](https://ivaluesavings.com)  
+- **[Pixel Socket]()**  
+  A multiplayer pixel art canvas using Socket.io and canvas2D
+
+- **[Huddle Voice Chat]()**  
+  A virtual office voice-chat application which uses the concept of proximity-based "huddles" to connect users.
+
+- **[Routinify]()**  
+  A productivity app to encourage and maintain personal routines without scheduling
+
+- **[Core Visual Programming]()**  
+  A prototype developed for Core Games to allow for visual scripting in editor. At runtime, the graph compiles to LUA using Core's API. Written in React
+
+- **[Incite Visual Programming]()**  
+  A prototype developed for Incite Worlds to allow for visual scripting of Agentic scenarios using LLM-powered "language gates"
+- **[Parsnip]()**  
+  A simple yet powerful parser generator for JavaScript allowing you to write custom domain specific languages using an object-based grammar schema. Used for my own custom DSL projects.
+- **[BASIN]()**  
+  A lightweight AST (abstract syntax tree) interpreter & runtime built in javascript.
+- **[Basic.js]()**  
+  a BASIC interpreter written in JavaScript, using the BASIN runtime.
+
+- **[iValueSavings](https://ivaluesavings.com)**  
   A savings club and newsletter with referral marketing
 
-- [MilkManPlus](https://milkmanplus.com):  
+- **[MilkManPlus](https://milkmanplus.com)**  
   A service portal for a local Milkman business
-
-- Pixel Socket
-- basic.js
-- basin
-- ctx game engine
-- huddle
-- routinify
-- artboard
