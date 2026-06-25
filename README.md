@@ -1,3 +1,3 @@
 # Coder by day, artist by night
 
-[Link to Resume](https://danfessler.github.io)
+[Link to Resume](https://danfessler.com/dev/)
